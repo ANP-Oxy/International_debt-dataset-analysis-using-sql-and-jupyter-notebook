@@ -1,4 +1,4 @@
- #international debt dataset analysis using SQL
+ # International debt dataset analysis using SQL
  
  In this project I analyzed the international debt dataset inside jupyter notebook using SQL. 
  I created a postgresql database locally and imported the data from a CSV file into the database table. 
